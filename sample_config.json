@@ -1,0 +1,14 @@
+{
+    "latitude": 0,
+    "longitude": 0,
+    "zip": "",
+    "homeassistant": {
+      "homeassistant_token": "",
+      "homeassistant_url": "",
+      "temp_sensor": "",
+      "humidity_sensor": ""
+    },
+    "openweather_api_key": "",
+    "gcal_token": ""
+  }
+  

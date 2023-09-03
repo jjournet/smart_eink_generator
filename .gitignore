@@ -1,0 +1,7 @@
+config.json
+credentials.json
+__*
+output/
+fonts/
+smart_eink_generator
+token.json
